@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #d9d6cc;
+}
+
+.navbar-expand-lg {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.nav-link {
+    color: #1c404c !important;
+}
+
+.img-logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+
+.footer-text {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    text-decoration: none !important;
+}
+
+.d-block {
+    max-width: 100%;
+    max-height: 550px;
+}
